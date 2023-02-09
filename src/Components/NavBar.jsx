@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react"
 import { Navbar, Container } from "react-bootstrap"
 
-export const NavBar = () => {
+export const Header = () => {
   const [activeLink, setActivelink] = useState('inicio')
   const [scolled, seScrolled] = useState(false)
 
@@ -46,4 +46,3 @@ export const NavBar = () => {
         </Navbar.Collapse>
       </Container>
     </Navbar>
-}
