@@ -1,6 +1,6 @@
 import React from 'react'
 import {Navbar} from 'react-bootstrap'
-import logo from './public/img/logo.png'
+import logo from './src/img/logo.png'
 
 const Header = () => {
   return (
@@ -19,9 +19,9 @@ const Header = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse className="justify-content-end">
           <Nav className="justify-content-end">
-            <Nav.Link href="#Skills">Skills</Nav.Link>
-            <Nav.Link href="#Proyects">Projects</Nav.Link>
-            <Nav.Link href="#Contact">Contact</Nav.Link>
+            <Nav.Link href="#Skills">Habilidades</Nav.Link>
+            <Nav.Link href="#Proyects">Proyectos</Nav.Link>
+            <Nav.Link href="#Contact">Contactame</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

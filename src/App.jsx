@@ -1,6 +1,6 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import {Header} from './Components/NavBar'
+import {Header} from '.src/Components/NavBar'
 
 function App() {
   const [count, setCount] = useState(0)
