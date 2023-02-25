@@ -1,15 +1,18 @@
-import React from 'react'
-import 'bootstrap/dist/css/bootstrap.min.css'
-import {Header} from '.src/Components/NavBar'
+import React from "react"
+import Navbar from "./Components/Navbar"
+import Home from "./Components/Home"
+import Contact from "./Components/Contact"
+import Projects from "./Components/Projects"
+import Skills from "./Components/Skills"
 
-function App() {
-  const [count, setCount] = useState(0)
-
+export default function App() {
   return (
-    <div className="App">
-      <Header />
-    </div>
+    <main className="text-gray-400 bg-gray-900 body-font"> 
+      <Navbar />
+      <Home />
+      <Projects />
+      <Skills />
+      <Contact />
+    </main>
   )
 }
-
-export default App
