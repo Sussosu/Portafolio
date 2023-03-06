@@ -1,3 +1,6 @@
+//modificar links, titulos e imagenes de los proyectos//
+
+
 export const projects = [
   {
     title: "React Reserve",
@@ -37,5 +40,10 @@ export const skills = [
   "JavaScript",
   "React",
   "Node",
+  "Figma",
+  "HTML",
+  "CSS",
+  "Boostrap",
+  "Tailwind",
   
 ]
