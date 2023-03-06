@@ -27,11 +27,11 @@ export default function Home() {
             </a>
           </div>
         </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/9">
           <img
             className="object-cover object-center rounded"
             alt="avatar"
-            src="./coding.svg"
+            src="./avatar.png"
           />
         </div>
       </div>
