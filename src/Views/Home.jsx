@@ -31,7 +31,7 @@ export default function Home() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/9">
           <img
-            className="object-cover object-center rounded"
+            className="object-cover object-center w-200 h-200"
             alt="avatar"
             src="./avatar.png"
           />

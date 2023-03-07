@@ -31,7 +31,7 @@ export default function Contact() {
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded ">
             <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/9" />
             <img
-              className="object-cover object-left rounded"
+              className="object-cover object-center w-200 h-200"
               alt="avatar2"
               src="./av2.png"
             />
