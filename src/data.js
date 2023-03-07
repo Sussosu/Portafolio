@@ -3,36 +3,36 @@
 
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Calculadora",
+    subtitle: "Javascript, HTM y CSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Sussosu/Calculadora.git",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Web tributo",
+    subtitle: "HTML y CSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Sussosu/Web-tributo.git",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "API Rick and Morty",
+    subtitle: "Javascript, HTM y CSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Sussosu/Rick-and-Morty.git",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "To Do List",
+    subtitle: "Javascript, HTM y CSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Sussosu/To-Do-List.git",
   }
 ]
 
