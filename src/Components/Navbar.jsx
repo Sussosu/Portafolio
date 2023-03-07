@@ -10,7 +10,7 @@ export default function Navbar() {
           <img
               className="object-cover flex items-center rounded-full w-20 h-20"
               alt="Logo"
-              src="./logo.png"
+              src="./logo.ico"
               />
           </a>
         </a>
