@@ -7,7 +7,7 @@ export const projects = [
     subtitle: "Javascript, HTM y CSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+    image: "./calculator.png",
     link: "https://github.com/Sussosu/Calculadora.git",
   },
   {
@@ -15,7 +15,7 @@ export const projects = [
     subtitle: "HTML y CSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+    image: "./mock.png",
     link: "https://github.com/Sussosu/Web-tributo.git",
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
     subtitle: "Javascript, HTM y CSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+    image: "./cucumber.png",
     link: "https://github.com/Sussosu/Rick-and-Morty.git",
   },
   {
@@ -31,7 +31,7 @@ export const projects = [
     subtitle: "Javascript, HTM y CSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+    image: "./document.png",
     link: "https://github.com/Sussosu/To-Do-List.git",
   }
 ]
