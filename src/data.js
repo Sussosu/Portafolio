@@ -1,6 +1,3 @@
-//modificar links, titulos e imagenes de los proyectos//
-
-
 export const projects = [
   {
     title: "Calculadora",

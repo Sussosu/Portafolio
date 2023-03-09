@@ -15,7 +15,7 @@ export default function Contact() {
 
   function handleSubmit(e) {
     e.preventDefault();
-    fetch("/", {
+    fetch("https://wa.me/3204678212?text=Hola%2C+Susej.+Estoy+interesado+en+tu+trabajo.+Hablemos", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", name, email, message }),
