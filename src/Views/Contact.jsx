@@ -15,7 +15,7 @@ export default function Contact() {
 
   function handleSubmit(e) {
     e.preventDefault();
-    fetch("https://formsubmit.co/sussosu2211@gmail.com", {
+    fetch("https://formsubmit.co/29480819975bd5ed3713c7a63f8aeb25", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", name, email, message }),
